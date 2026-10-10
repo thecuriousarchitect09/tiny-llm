@@ -1,0 +1,15 @@
+
+The curious architect studies how machines learn.
+A language model predicts the next token from context.
+Training adjusts the model weights to reduce prediction error.
+Attention helps each token gather information from earlier tokens.
+A transformer combines attention and feed forward networks.
+The model learns patterns by reading many examples.
+A small model has limited memory and limited capacity.
+Good data helps a model learn useful patterns.
+We can build a language model with Python and PyTorch.
+The model reads text, predicts characters, and generates new text.
+Learning requires examples, computation, and repeated optimization.
+A neural network changes its weights during training.
+The goal is to predict the next character in a sequence.
+The curious architect builds a tiny language model from scratch.
